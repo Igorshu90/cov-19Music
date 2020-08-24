@@ -1,0 +1,8 @@
+{
+  "volume":127,
+  "bmp":500,
+  "instrument":60,
+  "bar":[0, 62, 64, 65, 67, 69, 71, 72, 74],
+  "lengths":[0.25, 0.125, 0.75],
+  "path":"cases_data.xlt"
+}
